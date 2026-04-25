@@ -15,9 +15,9 @@ body {
 }
 
 button.primary {
-  padding: 10px;
+  padding: 2px;
   border: solid 1px var(--primary-color);
   background: var(--primary-color);
-  color: white;
+  color: yellow;
   border-radius: 8px;
 }
